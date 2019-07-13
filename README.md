@@ -50,15 +50,19 @@ What will help you enjoy more the course
 
 ## Planning
 
-Prepare the team
+### Prepare the team
 
-Selective Process
+### Selective Process
 
-Training course
+### Training course
 
-Final game
+### Final game
 
-Release game
+Concurso entre os participantes com banca avaliadora. O jogo com maior pontuação ganha algum tipo de prêmio e pode participar dos concursos do IEEE. O jogo é livre e o tema é `IEEE`, mantendo dentro do escopo, o estilo do jogo é liberado. Cada participante deverá criar um jogo individualmente.
+
+### Winner
+
+O vencedor de melhor jogo ganha X.
 
 ## Final game
 
