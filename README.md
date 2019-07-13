@@ -51,9 +51,13 @@ What will help you enjoy more the course
 ## Planning
 
 Prepare the team
+
 Selective Process
+
 Training course
+
 Final game
+
 Release game
 
 ## Final game
